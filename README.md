@@ -73,7 +73,7 @@ This moved me to write the following notes and hopes for our current civilizatio
   
     The Best Outcome of Decentralization for Crypto and Blockchain Leading to Meteor City Civilization
 
-The best outcome of the current decentralization for crypto and blockchain, leading to a city like Meteor City, is the realization of a truly democratic, transparent, and inclusive society. Meteor City represents a vision where power is distributed among the citizens, enabling active participation in decision-making processes and governance. This outcome brings several benefits:
+The best outcome leading to a city like Meteor City, is the realization of a truly democratic, transparent, and inclusive society. Meteor City represents a vision where power is distributed among the citizens, enabling active participation in decision-making processes and governance. This outcome brings several benefits:
 
  * Empowerment and Ownership: Decentralization empowers individuals by giving them control over their own data, finances, and identities. In Meteor City, citizens have a say in shaping the city's policies, initiatives, and the allocation of resources. This sense of ownership fosters a stronger sense of community and collective responsibility.
 
@@ -91,7 +91,7 @@ The best outcome of the current decentralization for crypto and blockchain, lead
 
     The Worst Outcome of Decentralization for Crypto and Blockchain Leading to Meteor City Civilization
 
-The worst outcome of the current decentralization movement for crypto and blockchain, aiming to achieve a city like Elysium, is the potential for increased inequality and exclusion. While decentralization holds immense promise, there are several concerns and risks that need to be acknowledged and addressed:
+The worst outcome is the potential for increased inequality and exclusion. While decentralization holds immense promise, there are several concerns and risks that need to be acknowledged and addressed:
 
  * Unequal Access and Technical Barriers: In a decentralized city like, access to technology and digital infrastructure becomes crucial. However, if not properly managed, it can lead to a digital divide, where certain segments of the population may lack the necessary resources, skills, or connectivity to participate fully. This can exacerbate existing inequalities and create exclusionary dynamics within the city.
 
