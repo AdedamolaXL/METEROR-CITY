@@ -11,4 +11,4 @@ In the summer of 2018, i got my hands on some VR googles that allowed me to trav
 
 The following report tells the story of how they made it happen:
 
-1. ## *Imagine a beautiful city built using technological waste that runs on a decentralized stack..*
+1. ### *Imagine a beautiful city built using technological waste that runs on a decentralized stack..*
