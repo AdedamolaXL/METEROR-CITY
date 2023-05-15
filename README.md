@@ -51,7 +51,7 @@ Progressive decentralization was also evident in its technological advancements.
 
 The process of progressive decentralization in Meteor City was not without its challenges. It required constant evaluation, feedback loops, and a willingness to adapt. The city actively sought input from its citizens through regular surveys, public consultations, and open forums to gauge their needs and preferences. This iterative approach allowed them to identify shortcomings, address concerns, and refine their decentralized systems over time.
 
-6. ##### *Meteor City's private worldwide computing
+6. ##### *Meteor City's private worldwide computing*
 
 One amazing thing, Meteor City further built on their decentralized stack system was private worldwide computing ushering in a new era of data sovereignty and privacy. The city's computing infrastructure was built upon decentralized networks, ensuring that sensitive information remains under the control of its rightful owners. Private worldwide computing allowed citizens to securely access and share data while retaining ownership and control. Encrypted communication channels and decentralized storage solutions safeguard personal information, preserving individual privacy in an interconnected world. Meteor City's commitment to private worldwide computing serves as a beacon of trust and security, attracting individuals and businesses seeking a sanctuary from the encroachment of surveillance capitalism. Some key features in their system I noticed were:
  * Data protection
@@ -61,7 +61,7 @@ One amazing thing, Meteor City further built on their decentralized stack system
  * Data minimization and transperancy
  * User empowerement
 
-7. ##### They defeated surveillance capitalism..
+7. ##### *They defeated surveillance capitalism..*
 
 The city's decentralized stack and private worldwide computing infrastructure was just too good. It created an impregnable fortress, ensuring that individuals are no longer commodified as mere data points. Meteor City's citizens possessed full control over their personal information, allowing them to selectively engage with the digital economy on their own terms. In this decentralized utopia, surveillance capitalism struggled to find fertile ground, as the core principles of privacy, consent, and autonomy form an impenetrable shield against its predatory practices. Meteor City indeed became aa living testament to the triumph of individual sovereignty over mass surveillance and a worthy model of aspiration. 
 
