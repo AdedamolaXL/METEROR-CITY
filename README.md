@@ -37,7 +37,7 @@ To prevent a slide towards centralization, the community prioritized certain str
  * Designing resilient governance structures that distribute decision-making authority, incorporating checks and balances, and leveraging technology such as blockchain, further safeguards against centralization. 
  * Education and empowerment which plays a crucial role in countering centralization tendencies by fostering awareness, understanding, and active participation in governance decisions. 
 
-5. ##### *Progressive decentralization
+5. ##### *Progressive decentralization*
 
 By the third year, it became clear that further decentralization of power was neccessary, especially as the general public became more involved in the process of DAO governance. This brought about progressive decentralization; Progressive decentralization refers to a gradual and deliberate approach that tailors decentralization to fit the specific needs and circumstances of an organization or community. This approach recognizes that decentralization is not an all-or-nothing proposition and allows for a more measured transfer of power and decision-making authority. Progressive decentralization enabled a thoughtful and well-planned process, ensuring a balance between the benefits and potential risks and challenges associated with decentralization. 
 
