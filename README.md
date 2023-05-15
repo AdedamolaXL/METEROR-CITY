@@ -25,4 +25,4 @@ Meteor City thrived on a symphony of decentralized systems, where power, governa
 
 3. ##### *Blending Decentralization and Centralization*
           
-       'Together, we are the Spider. I'm its head, and you're the legs. The legs do what the head says. But there will be times when the legs are more important than the head. If I die, someone else will take over. My orders are of the utmost priority. My life is not. Be sure to make the right decision. I'm only a part of the Spider. What's important is the survival of the whole, not the individual.'
+>'Together, we are the Spider. I'm its head, and you're the legs. The legs do what the head says. But there will be times when the legs are more important than the head. If I die, someone else will take over. My orders are of the utmost priority. My life is not. Be sure to make the right decision. I'm only a part of the Spider. What's important is the survival of the whole, not the individual.'
