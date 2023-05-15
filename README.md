@@ -89,7 +89,8 @@ The best outcome leading to a city like Meteor City, is the realization of a tru
 
  * Global Collaboration and Interoperability: Meteor City, built on decentralized technologies, can establish connections and collaborations with other decentralized cities worldwide. This global network allows for the sharing of best practices, knowledge, and resources, fostering innovation and collective problem-solving on a global scale.
 
-    The Worst Outcome of Decentralization for Crypto and Blockchain Leading to Meteor City Civilization
+     
+       The Worst Outcome of Decentralization for Crypto and Blockchain Leading to Meteor City Civilization
 
 The worst outcome is the potential for increased inequality and exclusion. While decentralization holds immense promise, there are several concerns and risks that need to be acknowledged and addressed:
 
