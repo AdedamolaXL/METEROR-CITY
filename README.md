@@ -1,15 +1,15 @@
 # METEROR-CITY
-From daos to decentralized cities.. This is an essay exploring trueblocks essay challenge for the regen rangers hackathons.
+From daos to decentralized cities.. This is an essay exploring trueblocks essay challenge for the regen rangers hackathon.
 
-I have decided to weave all 9 topics into a subtle report loosely related to the famed spider group ‘phantom troupe’ from one of my favourite anime Hunter x Hunter. Thus, this essay comes to you as a futuristic tale exploring the essence of decentralization, the transformative benefits, the potential pitfalls and how surveillance capitalism was defeated.
+I have decided to weave all 9 topics into a subtle report loosely related to the famed spider group ‘phantom troupe’ from one of my favourite anime Hunter x Hunter. Thus, this essay comes to you as a futuristic tale exploring the essence of decentralization, the transformative benefits, and potential pitfalls. 
  
 Enjoy..
 
 ## INTRODUCTION
 
-In the summer of 2018, i got my hands on some VR googles that allowed me to travel into an alternative version of the book Hunter x Hunter, in there i found a vibrant curious city known as Meteor City. Meteor City had just witnessed an extraordinary transfirmation from a dumping ground for technological waste into a magnificent decentralized city. This transformation had been heralded by a group of visionaries who formed a DAO named the ***phantom troupe**
+In the summer of 2018, i got my hands on some VR googles that allowed me to travel into an alternative version of the book Hunter x Hunter, in there I found a vibrant curious city known as Meteor City. Meteor City had just witnessed an extraordinary transformation from a dumping ground for technological waste into a magnificent decentralized city. This transformation had been heralded by a group of scavengr-visionaries who formed a DAO named the ***phantom troupe**
 
-The following report tells the story of how they made it happen:
+The following report tells their story and how they made it happen:
 
 1. ##### *Imagine a beautiful city built using technological waste that runs on a decentralized stack..*
 
@@ -27,13 +27,13 @@ Meteor City thrived on a symphony of decentralized systems, where power, governa
           
 >'Together, we are the Spider. I'm its head, and you're the legs. The legs do what the head says. But there will be times when the legs are more important than the head. If I die, someone else will take over. My orders are of the utmost priority. My life is not. Be sure to make the right decision. I'm only a part of the Spider. What's important is the survival of the whole, not the individual.' - Chrollo Lucifer, Founder of the Phantom Troupe.
 
-In the beginning the DAO was more centralized in leadership than it is today. They recognized from the beginning, a nuanced perspective of the required balance between decentralization and centralization. This allowed them to thrive, for example, the DAO benefitted from a centralized coordinating body that establishes standards, resolves conflicts, and ensures compliance. Chrollo was the head but he was by no means autocratic; Much like most DAO founders, his leadership seemed to be borne out of respect for his intelligence, and charismatic ability to keep the group working on shared objectives without interference to individual goals. This combination allows the network to maintain its distributed nature while benefiting from centralized coordination, ultimately promoting harmonious coexistence.
+In the beginning the DAO was more centralized in leadership than it is today. They recognized from the beginning, a nuanced perspective of the required balance between decentralization and centralization. This allowed them to thrive, for example, the DAO benefitted from a centralized coordinating body that establishes standards, resolves conflicts, and ensures compliance. Chrollo was the head but he was by no means autocratic; Much like most DAO founders, his leadership seemed to be borne out of respect for his intelligence, and charismatic ability to keep the group working on shared objectives without interference to individual goals. This combination allowed the network to maintain its distributed nature while benefiting from centralized coordination, ultimately promoting harmonious coexistence.
 
 4. ##### *How the Phantom Troupe managed to community avoid a slide down towards centralization?*
 
-To prevent a slide towards centralization, the community prioritizes certain strategies:
+To prevent a slide towards centralization, the community prioritized certain strategies:
  * Promoting active participation and engagement from diverse individuals which ensures power is not concentrated in the hands of a select few. 
- * Transparency and accountability, achieved through open decision-making processes, regular reporting, audits, and external oversight. D
+ * Transparency and accountability, achieved through open decision-making processes, regular reporting, audits, and external oversight. 
  * Designing resilient governance structures that distribute decision-making authority, incorporating checks and balances, and leveraging technology such as blockchain, further safeguards against centralization. 
  * Education and empowerment which plays a crucial role in countering centralization tendencies by fostering awareness, understanding, and active participation in governance decisions. 
 
@@ -49,15 +49,21 @@ The concept of progressive decentralization extended beyond governance to includ
 
 Progressive decentralization was also evident in its technological advancements. The city continuously embraced emerging technologies that enhanced citizen participation and improved quality of life. For instance, the integration of artificial intelligence (AI) and machine learning enabled personalized services and efficient resource management. They also ensured that these technologies were developed and deployed ethically, with citizen input and oversight to prevent potential risks and abuses.
 
-The process of progressive decentralization in Meteor City was not without its challenges. It required constant evaluation, feedback loops, and a willingness to adapt. The city actively sought input from its citizens through regular surveys, public consultations, and open forums to gauge their needs and preferences. This iterative approach allowed them to identify shortcomings, address concerns, and refine their decentralized systems oer time.
+The process of progressive decentralization in Meteor City was not without its challenges. It required constant evaluation, feedback loops, and a willingness to adapt. The city actively sought input from its citizens through regular surveys, public consultations, and open forums to gauge their needs and preferences. This iterative approach allowed them to identify shortcomings, address concerns, and refine their decentralized systems over time.
 
 6. ##### *Meteor City's private worldwide computing
 
-One amazing thing, Meteor City further built on their decentralized stack system was private worldwide computing ushering in a new era of data sovereignty and privacy. The city's computing infrastructure was built upon decentralized networks, ensuring that sensitive information remains under the control of its rightful owners. Private worldwide computing allowed citizens to securely access and share data while retaining ownership and control. Encrypted communication channels and decentralized storage solutions safeguard personal information, preserving individual privacy in an interconnected world. Meteor City's commitment to private worldwide computing serves as a beacon of trust and security, attracting individuals and businesses seeking a sanctuary from the encroachment of surveillance capitalism. 
+One amazing thing, Meteor City further built on their decentralized stack system was private worldwide computing ushering in a new era of data sovereignty and privacy. The city's computing infrastructure was built upon decentralized networks, ensuring that sensitive information remains under the control of its rightful owners. Private worldwide computing allowed citizens to securely access and share data while retaining ownership and control. Encrypted communication channels and decentralized storage solutions safeguard personal information, preserving individual privacy in an interconnected world. Meteor City's commitment to private worldwide computing serves as a beacon of trust and security, attracting individuals and businesses seeking a sanctuary from the encroachment of surveillance capitalism. Some key features in their system I noticed were:
+ * Data protection
+ * Decentralized Identity Management
+ * Secure Communication
+ * Confidential Computing
+ * Data minimization and transperancy
+ * User empowerement
 
-7. ##### Defeating surveillance capitalism
+7. ##### They defeated surveillance capitalism..
 
-The city's decentralized stack and private worldwide computing infrastructure create an impregnable fortress, ensuring that individuals are no longer commodified as mere data points. Meteor City's citizens possess full control over their personal information, allowing them to selectively engage with the digital economy on their own terms. In this decentralized utopia, surveillance capitalism struggles to find fertile ground, as the core principles of privacy, consent, and autonomy form an impenetrable shield against its predatory practices. Meteor City's becomes a living testament to the triumph of individual sovereignty over mass surveillance, inspiring other cities to follow suit and dismantling the foundations of surveillance capitalism at its core.
+The city's decentralized stack and private worldwide computing infrastructure was just too good. It created an impregnable fortress, ensuring that individuals are no longer commodified as mere data points. Meteor City's citizens possessed full control over their personal information, allowing them to selectively engage with the digital economy on their own terms. In this decentralized utopia, surveillance capitalism struggled to find fertile ground, as the core principles of privacy, consent, and autonomy form an impenetrable shield against its predatory practices. Meteor City indeed became aa living testament to the triumph of individual sovereignty over mass surveillance and a worthy model of aspiration. 
 
 ## CONCLUSION
 
